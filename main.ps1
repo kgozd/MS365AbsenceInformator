@@ -1,10 +1,6 @@
-# Install and import the AzureAD module
-# Install-Module -Name AzureAD
-# Install-Module -Name ExchangeOnlineManagement
+
 using namespace System.Collections.Generic
 
-# Import-Module AzureAD
-# Import-Module ExchangeOnlineManagement
 
 # Passwords and Logins are in this json for development,( please use more secure method of handling credentials in production env)
 $ConfigData = Get-Content -Path ".\CredsConfig.json" | ConvertFrom-Json
