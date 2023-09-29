@@ -26,7 +26,7 @@ Use these commands to install required modules
     
 Next go to Google account > security> 2FA > Application Password and generate one
 
-In script folder create JSON file like this:
+*In script folder create JSON file like this:
 
 ```JSON
 {
@@ -38,3 +38,5 @@ In script folder create JSON file like this:
 }
 ```
 Save it as: CredsConfig.json
+
+*Usine env variable would be more robust option, I used json for simplicity.
