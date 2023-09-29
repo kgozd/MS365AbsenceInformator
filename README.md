@@ -1,5 +1,5 @@
 # MS365AbsenceInformator
-This script is a great tool for every SMB which uses MS365 suite. This Powershell script connect to MS365 apps and send to managers information which users from their department has email forwarding.
+This script is a great tool for every SMB which uses MS365 suite. Script connects to MS365 apps and send to managers information which users from their department has email forwarding.
 
 
 
