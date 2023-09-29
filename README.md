@@ -39,4 +39,4 @@ Next go to Google account > security> 2FA > Application Password and generate on
 ```
 Save it as: CredsConfig.json
 
-***Usine env variable would be more robust option, I used json for simplicity.
+***Using env variable would be more robust option, I used json for simplicity.
